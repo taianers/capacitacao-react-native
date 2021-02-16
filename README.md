@@ -1,0 +1,1 @@
+# capacitacao-react-native
