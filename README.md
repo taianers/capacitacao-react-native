@@ -1,3 +1,3 @@
-# Capacitacao react-native
+# react-native
 
 Estudos react native utilizando o Expo
